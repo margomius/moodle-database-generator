@@ -30,15 +30,15 @@ The list view is a bootstrap table with one field in each column and might be th
     * Responsive
 * Easily adjustable colors
 * Optional: [DataTables](https://datatables.net/) for a mobile friendly list view
-    * Assign priorities to fields/columns. Priority 1 will also be shown on narrow screens while higher priorities will collapse.
+    * Assign priorities to fields/columns. Priority 1 will always be shown on narrow screens while higher priorities will collapse.
 
 ## Help
 
 * Set language by choosing "EN" or "DE" on sheet "Settings"
 * Moodle fields must have a unique name (no duplicates)
-* Activate DataTables by selecting "Ja / Yes" on sheet "Settings"
-* Datatable priorities: n columns can have priority 1,...,n
-    * Not all columns need priorities. No priority = will collapse first on narrow screens
+* Activate DataTables by selecting "Yes / Ja" on sheet "Settings"
+* DataTable priorities: n columns can have priority 1,...,n
+    * Not all columns need priorities. No priority = column will collapse first on narrow screens
 
 ## Version History
 
@@ -53,3 +53,9 @@ Inspiration, code snippets, etc.
 * [DataTables](https://datatables.net/)
 
 ## Screenshots
+
+![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/05_List_View.PNG?raw=true)
+
+![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/06_Single_View.PNG?raw=true)
+
+![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/08_DataTables_List_View_Expanded.PNG?raw=true)
