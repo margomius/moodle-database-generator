@@ -1,12 +1,12 @@
 # Template-Generator for Moodle Database Activity
 
-This Excel file generates html and css templates for a [bootstrap](https://getbootstrap.com/) database activity in [Moodle](https://moodle.org/).
+This Excel file generates html and css templates for a [Bootstrap](https://getbootstrap.com/) database activity in [Moodle](https://moodle.org/).
 
 ## Description
 
 The "generator" is an Excel (.xlsx) file which combines input variables with html and css code.
 Simply add your database fields to the excel file and copy pre-formatted templates for your database.
-The list view is a simple table with one fiel in each column and might be the base for custom formatting.
+The list view is a bootstrap table with one field in each column and might be the base for custom formatting.
 
 ## Getting Started
 
