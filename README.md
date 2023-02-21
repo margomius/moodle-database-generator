@@ -1,6 +1,6 @@
 # Template-Generator for Moodle Database Activity
 
-This Excel file generates html and css templates for a [bootstrap][https://getbootstrap.com/] database activity in [Moodle](https://moodle.org/).
+This Excel file generates html and css templates for a [bootstrap](https://getbootstrap.com/) database activity in [Moodle](https://moodle.org/).
 
 ## Description
 
