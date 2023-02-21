@@ -54,10 +54,10 @@ Inspiration, code snippets, etc.
 
 ## Screenshots
 
-### List View
+### View List
 ![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/05_List_View.PNG?raw=true)
 
-### Single View
+### View Single
 ![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/06_Single_View.PNG?raw=true)
 
 ### DataTables on mobile (collapsed and expanded)
