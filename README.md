@@ -61,4 +61,4 @@ Inspiration, code snippets, etc.
 ![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/06_Single_View.PNG?raw=true)
 
 ### DataTables on mobile (collapsed and expanded)
-![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/07_DataTables_List_View_Collapsed.PNG?raw=true)    ![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/08_DataTables_List_View_Expanded.PNG?raw=true)
+![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/07_DataTables_List_View_Collapsed.PNG?raw=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/08_DataTables_List_View_Expanded.PNG?raw=true)
