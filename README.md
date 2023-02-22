@@ -44,7 +44,7 @@ The list view is a bootstrap table with one field in each column and might be th
 
 * 1.1
     * Added support for tags like ##user##, ##timeadded## etc.
-    * new layout for sheet "fields"
+    * New layout for sheet "fields"
 * 1.0
     * Initial Release
 
