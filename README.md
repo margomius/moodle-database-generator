@@ -8,7 +8,7 @@ The "generator" is an Excel (.xlsx) file which combines input variables with htm
 Simply add your database fields to the excel file and copy pre-formatted templates for your database.
 The list view is a bootstrap table with one field in each column and might be the base for custom formatting.
 
-## Getting Started
+## How To
 
 * Create a database in Moodle or use an existing one
 * Create input fields or use existing ones
@@ -45,6 +45,7 @@ The list view is a bootstrap table with one field in each column and might be th
 * 1.1
     * Added support for tags like ##user##, ##timeadded## etc.
     * New layout for sheet "fields"
+    * Translation for export buttons
 * 1.0
     * Initial Release
 
