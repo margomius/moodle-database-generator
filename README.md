@@ -2,7 +2,7 @@
 
 Excel file that generates html and css templates for a [Bootstrap](https://getbootstrap.com/) database activity in [Moodle](https://moodle.org/).
 
-Direct download link:
+Direct download:
 [Template-Generator_for_Moodle_Databases.xlsx](https://github.com/margomius/moodle-database-generator/raw/main/Template-Generator_for_Moodle_Databases.xlsx)
 
 ## Description
