@@ -44,6 +44,8 @@ The list view is a bootstrap table with one field in each column and might be th
 
 ## Version History
 
+* 1.2
+    * fixed some CSS causing styling issues outside of the database (buttons, moodle chat)
 * 1.1
     * Added support for tags like ##user##, ##timeadded## etc.
     * New layout for sheet "fields"
