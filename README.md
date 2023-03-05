@@ -44,6 +44,10 @@ The list view is a bootstrap table with one field in each column and might be th
 
 ## Version History
 
+* 1.3
+    * not approved entries are highlighted now
+    * removed quick search for list view when dataTables is activated
+    * minor design fixes
 * 1.2
     * fixed some CSS causing styling issues outside of the database (buttons, moodle chat)
     * fixed text-wrapping issue of dropdown items on some moodle versions
