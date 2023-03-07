@@ -44,6 +44,9 @@ The list view is a bootstrap table with one field in each column and might be th
 
 ## Version History
 
+* 1.4
+    * advanced search preset added
+    * added quick search for list view again (caused an issue)
 * 1.3
     * not approved entries are highlighted now
     * removed quick search for list view when dataTables is activated
